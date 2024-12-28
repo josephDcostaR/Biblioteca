@@ -24,7 +24,7 @@ Use git clone e execute o projeto, será necessário também gerar o próprio se
 ```bash
 git clone https://github.com/josephDcostaR/Biblioteca.git
 ```
-> Depende do Java 21
+
 
 ## 🧰 Funcionalidades
 - Pesquisar livros disponíveis no Gutendex;
@@ -36,7 +36,7 @@ git clone https://github.com/josephDcostaR/Biblioteca.git
 
 ![01](https://github.com/user-attachments/assets/e6c5cfeb-99ee-4bee-ac4e-0b7b9adb23b3)
 
-> Outros prints em "screenshots-literalura"
+
 ## 🤖 Tecnologias
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
