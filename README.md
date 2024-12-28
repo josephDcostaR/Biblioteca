@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-    📖 L I T E R A T U R A 📖
+    📖 BIBLIOTECA 📖
   </h1>
   <p>
     Challenge - Oracle ONE
@@ -14,13 +14,12 @@
 </div>
 
 ## 🕵️ Descrição
-O desafio proposto 
-Consiste em uma projeto para consumo da api [Gutendex](https://gutendex.com/), feito em java com springboot, e faça operações de persistência e exibição de dados.
+O desafio proposto consistiu em criar um gerenciador de bioteca consumindo a api [Gutendex](https://gutendex.com/), feito em java com springboot, e faça operações de persistência e exibição de dados.
 
 ## 🛠️ Uso
 Use git clone e execute o projeto, será necessário também gerar o próprio servidor postgres e configurar adequadamente em application.properties.
 ```bash
-git clone https://github.com/CaioMtho/Challenge-Literalura
+git clone https://github.com/josephDcostaR/Biblioteca.git
 ```
 > Depende do Java 21
 
@@ -31,7 +30,8 @@ git clone https://github.com/CaioMtho/Challenge-Literalura
 - Filtrar autores vivos em determinado ano e livros com uma linguagem específica.
 
 ## 📷 Prints
-![menu](screenshots-literalura/screenshot-literalura-menu.png)
+
+![01](https://github.com/user-attachments/assets/e6c5cfeb-99ee-4bee-ac4e-0b7b9adb23b3)
 
 > Outros prints em "screenshots-literalura"
 ## 🤖 Tecnologias
