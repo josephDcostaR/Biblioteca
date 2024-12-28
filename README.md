@@ -6,11 +6,12 @@
   </h1>
   <p>
     Challenge - Oracle ONE
+  ![badge literalura](https://github.com/user-attachments/assets/8b8b057d-985c-4913-992f-26799822ef9c)
   </p>
 </div>
 
 <div align="center">
-<img src="badge literalura.png"/>
+
 </div>
 
 ## 🕵️ Descrição
